@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Divya Bharti 👋
 
-<!--
-**bhartidivya/bhartidivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI researcher and engineer** working across **Computer Vision, Generative AI, Large Language Models, and Multimodal AI**.
 
-Here are some ideas to get you started:
+My work spans both research and applied AI, from developing deep learning methods for vision and generative modeling to building LLM-based systems for real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring research ideas, understanding how they work from first principles, and translating them into practical AI systems.
+
+## 🔬 Research interests
+
+- **Computer Vision & Multimodal AI**
+- **Generative AI & Foundation Models**
+- **LLMs, RAG & Agentic AI**
+
+## 💻 Tech stack
+
+**Languages**  
+`Python` `SQL` 
+
+**AI & Deep Learning**  
+`PyTorch` `Hugging Face` `Transformers` `OpenCV`
+
+**Generative AI & Vision**  
+`Diffusion Models` `GANs` `Image-to-Image Translation` `Computer Vision`
+
+**LLM Systems**  
+`LLMs` `RAG` `Vector Databases` `Prompt Engineering` `AI Agents`
+
+## 🚀 Currently exploring
+
+I'm particularly interested in building and understanding modern AI systems involving:
+
+- Multimodal and vision-language models
+- LLM reasoning and agentic systems
+
+## 🤝 Open to
+
+I'm interested in connecting with researchers and engineers working on **AI research, Computer Vision, Generative AI, LLMs, and Multimodal AI**.
+
+## 🌐 Connect with me
+
+[🎓 Google Scholar](https://scholar.google.com/citations?user=t9FRNAEAAAAJ&hl=en) · [💼 LinkedIn](https://www.linkedin.com/in/divya-bharti-03702116b) 
